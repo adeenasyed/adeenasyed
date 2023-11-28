@@ -4,7 +4,7 @@
 </div>
 <hr>
 <div>
-  I'm a junior software developer, currently building a website for a small business called KbSpas. Check it out at www.kbspas.ca
+  I'm an engineering student at the University of Waterloo and a junior software developer, currently building a website for a small business called KbSpas. Check it out at www.kbspas.ca
 </div>
 
 
