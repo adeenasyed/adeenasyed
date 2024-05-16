@@ -2,9 +2,6 @@
 <div align="center">
 <img src="https://skillicons.dev/icons?i=java,cpp,html,css,js,ts,react,materialui,nodejs,mongodb,mysql&theme=dark">
 </div>
-<hr>
-<div>
-  I'm an engineering student at the University of Waterloo and a junior software developer, currently building a website for a small business called KbSpas. Check it out at www.kbspas.ca
-</div>
-
-
+<div>Check out these websites I built:</div>
+<div>🧿 www.kbspas.ca</div> 
+<div>🌐 www.globalopulence.ca</div>
