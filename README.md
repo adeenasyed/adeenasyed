@@ -1,6 +1,6 @@
 <img src="./github-header-image.png" width="100%"/>
-<div align="center">
-<img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js,ts,react,materialui,nodejs,mongodb,mysql&theme=dark">
+
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,ts,react,nodejs,mongodb,mysql&theme=dark">
 </div>
 <div>Check out these websites I built:</div>
 <div>🧿 www.kbspas.ca</div> 
