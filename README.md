@@ -1,7 +1,7 @@
 **Welcome!**
 <br/>
 <div> 
-  <img src="./honest-work.jpeg" width="100%"/>
+  <img src="./honest-work.jpg" width="100%"/>
 </div>
 <br/>
 <div>
