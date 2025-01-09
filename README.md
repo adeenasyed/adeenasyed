@@ -1,6 +1,13 @@
-<img src="./github-header-image.png" width="100%"/>
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js,ts,react,nodejs,mongodb,mysql&theme=dark">
+**Welcome!**
+<br/>
+<div> 
+  <img src="./honest-work.jpeg" width="100%"/>
 </div>
-<div>Check out these websites I built:</div>
-<div>🧿 www.kbspas.ca</div> 
+<br/>
+<div>
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,ts,react,nodejs,mongodb,mysql,heroku,aws,docker&theme=dark">
+</div>
+<br/>
+<div>Check out some of my work:</div>
+<div>🧿 </div> 
 <div>🌐 www.globalopulence.ca</div>
