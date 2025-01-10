@@ -8,4 +8,4 @@
 </div>
 <br/>
 <div>Check out my work in production:</div>
-<div>🌐 www.globalopulence.ca</div>
+<div>🌐 https://www.globalopulence.ca</div>
