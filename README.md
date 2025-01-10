@@ -4,7 +4,7 @@
 </div>
 <br/>
 <div>
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,ts,react,nodejs,mongodb,mysql,heroku,aws,docker&theme=dark">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,ts,mui,react,nodejs,mongodb,mysql,heroku,aws,docker&theme=dark">
 </div>
 <br/>
 <div>Check out my work in production:</div>
